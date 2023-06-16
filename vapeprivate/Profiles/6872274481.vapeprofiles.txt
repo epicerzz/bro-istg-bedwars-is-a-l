@@ -1,0 +1,1 @@
+{"squads":{"Keybind":"","Selected":false},"default":{"Keybind":"","Selected":false},"Skywars":{"Keybind":"","Selected":false},"30v30":{"Keybind":"","Selected":true},"Duels":{"Keybind":"","Selected":false}}
