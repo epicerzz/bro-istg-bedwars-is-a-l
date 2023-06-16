@@ -1,0 +1,1 @@
+{"30v30":{"Keybind":"","Selected":false},"solos":{"Selected":true,"Keybind":""},"squads":{"Keybind":"","Selected":false},"default":{"Keybind":"","Selected":false},"Duels":{"Keybind":"","Selected":false}}
